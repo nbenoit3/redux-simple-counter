@@ -1,6 +1,6 @@
 const initialState = {
   value: 0,
-  color: "red"
+  color: ""
 };
 
 const reducer = (state = initialState, action) => {
